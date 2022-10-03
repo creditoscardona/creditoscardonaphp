@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+            "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML DIR='LTR'>
+<HEAD>
+ <TITLE></TITLE>
+ <META http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <META http-equiv="Expires" content="Fri, Jan 01 1900 00:00:00 GMT">
+ <META http-equiv="Last-Modified" content="Thu, 11 Mar 2021 16:17:20" GMT">
+ <META http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
+ <META http-equiv="Cache-Control" content="post-check=0, pre-check=0">
+ <META http-equiv="Pragma" content="no-cache">
+<link rel="shortcut icon" href="../_lib/img/scriptcase__NM__ico__NM__favicon.ico">
+ <link rel="stylesheet" type="text/css" href="../_lib/css/Green/Green_error.css" /> 
+ <link rel="stylesheet" type="text/css" href="../_lib/css/Green/Green_errorLTR.css" /> 
+</HEAD>
+<BODY>
+<TABLE class="scErrorTable" cellspacing="0" cellpadding="0" align="center">
+ <TR>
+  <TD class="scErrorTitle" align="left">Error</TD>
+ </TR>
+ <TR>
+  <TD class="scErrorMessage" align="center">ociparse(): ORA-01756: quoted string not properly terminated</TD>
+ </TR>
+</TABLE></BODY>
+</HTML>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+            "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML DIR='LTR'>
+<HEAD>
+ <TITLE></TITLE>
+ <META http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <META http-equiv="Expires" content="Fri, Jan 01 1900 00:00:00 GMT">
+ <META http-equiv="Last-Modified" content="Thu, 11 Mar 2021 16:17:20" GMT">
+ <META http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
+ <META http-equiv="Cache-Control" content="post-check=0, pre-check=0">
+ <META http-equiv="Pragma" content="no-cache">
+<link rel="shortcut icon" href="../_lib/img/scriptcase__NM__ico__NM__favicon.ico">
+ <link rel="stylesheet" type="text/css" href="../_lib/css/Green/Green_error.css" /> 
+ <link rel="stylesheet" type="text/css" href="../_lib/css/Green/Green_errorLTR.css" /> 
+</HEAD>
+<BODY>
+<TABLE class="scErrorTable" cellspacing="0" cellpadding="0" align="center">
+ <TR>
+  <TD class="scErrorTitle" align="left">Error</TD>
+ </TR>
+ <TR>
+  <TD class="scErrorMessage" align="center">Se produjo un error al acceder a la base de datos<BR>ORA-01756: quoted string not properly terminated</TD>
+ </TR>
+</TABLE></BODY>
+</HTML>
